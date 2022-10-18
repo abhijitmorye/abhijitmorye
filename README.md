@@ -1,16 +1,16 @@
-### Hi there 👋
+README.md
+👋 Hi there! I’m Abhijit Morye
+👨‍💻 Passionate about data, machine learning, deep learning and how we can make an impact the world
+💼 Having 5 years of experience in Performance testing and engineeing domain.
+🎓 Post Graduate Student in Artificial Intelligence and Machine Learning
+🌱 I’m currently learning Python and Machine Learning, deep learning, SQL, python programming, NLP
+📫 Contact me at Gmail [abhijitmorye007@gmail.com]
+🔗 Connect with me on LinkedIn - https://www.linkedin.com/in/abhijit-morye-a80440a3/
 
-<!--
-**abhijitmorye/abhijitmorye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech Stack
+🖥️ Machine Learning - theoretical and pratical knowledge of Regression, Logistic, XGBoost, Clustering, PCA, Random Forest algorithms
+🖥️ Deep Learning - theoretical and pratical knowledge of Neural network, Object Detection, Segmentation, NLP, Computer Vision
+☁️ Cloud Computing: AWS
+🔧 Language: SQL, Python, C++, HTML, CSS
+📊 Data Viz: Tableau and Excel, pandas
+⚙️ Version Control: Git, GitHub, Linux
